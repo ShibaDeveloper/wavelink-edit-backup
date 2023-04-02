@@ -51,7 +51,6 @@ setup(
     packages=["wavelink", "wavelink.ext.spotify", "wavelink.types"],
     license="MIT",
     description="A robust and powerful Lavalink wrapper for discord.py and derivatives.",
-    long_description=readme,
     include_package_data=True,
     install_requires=requirements,
     classifiers=[
